@@ -7207,7 +7207,7 @@
           <pose>0 0 0.026 0 0 0</pose>
           <geometry>
             <mesh>
-              <uri>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/asphalt.obj</uri>
+              <uri>models/smooth_road/meshes/asphalt.obj</uri>
             </mesh>
           </geometry>
         </collision>
@@ -7215,7 +7215,7 @@
           <pose>0 0 0.026 0 0 0</pose>
           <geometry>
             <mesh>
-              <uri>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/yellow_border.obj</uri>
+              <uri>models/smooth_road/meshes/yellow_border.obj</uri>
             </mesh>
           </geometry>
           <material>
@@ -7228,7 +7228,7 @@
           <pose>0 0 0.029 0 0 0</pose>
           <geometry>
             <mesh>
-              <uri>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/asphalt.obj</uri>
+              <uri>models/smooth_road/meshes/asphalt.obj</uri>
             </mesh>
           </geometry>
           <material>
@@ -7241,7 +7241,7 @@
           <pose>0 0 0.033 0 0 0</pose>
           <geometry>
             <mesh>
-              <uri>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/center_line.obj</uri>
+              <uri>models/smooth_road/meshes/center_line.obj</uri>
             </mesh>
           </geometry>
           <material>
@@ -7257,7 +7257,7 @@
     <actor name="traffic_car_blue">
       <pose>0 0 0 0 0 0</pose>
       <skin>
-        <filename>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/dummy.obj</filename>
+        <filename>models/smooth_road/meshes/dummy.obj</filename>
       </skin>
       <link name="body_link">
         <visual name="body">
@@ -7877,7 +7877,7 @@
     <actor name="traffic_car_red">
       <pose>0 0 0 0 0 0</pose>
       <skin>
-        <filename>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/dummy.obj</filename>
+        <filename>models/smooth_road/meshes/dummy.obj</filename>
       </skin>
       <link name="body_link">
         <visual name="body">
@@ -8497,7 +8497,7 @@
     <actor name="traffic_car_green">
       <pose>0 0 0 0 0 0</pose>
       <skin>
-        <filename>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/dummy.obj</filename>
+        <filename>models/smooth_road/meshes/dummy.obj</filename>
       </skin>
       <link name="body_link">
         <visual name="body">
@@ -9117,7 +9117,7 @@
     <actor name="traffic_car_white">
       <pose>0 0 0 0 0 0</pose>
       <skin>
-        <filename>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/dummy.obj</filename>
+        <filename>models/smooth_road/meshes/dummy.obj</filename>
       </skin>
       <link name="body_link">
         <visual name="body">
@@ -9737,7 +9737,7 @@
     <actor name="traffic_car_yellow">
       <pose>0 0 0 0 0 0</pose>
       <skin>
-        <filename>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/dummy.obj</filename>
+        <filename>models/smooth_road/meshes/dummy.obj</filename>
       </skin>
       <link name="body_link">
         <visual name="body">
@@ -10356,7 +10356,7 @@
     </actor>
     <include>
       <name>prius</name>
-      <uri>file:///home/dhruv/Indian_autonomus/custom_worlds/models/prius</uri>
+      <uri>../custom_worlds/models/prius</uri>
       <pose>6.089 1.763 0.35 0 0 0.006</pose>
     </include>
   </world>

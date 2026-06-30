@@ -4349,7 +4349,7 @@
           <pose>0 0 0.038 0 0 0</pose>
           <geometry>
             <mesh>
-              <uri>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/yellow_border.obj</uri>
+              <uri>models/smooth_road/meshes/yellow_border.obj</uri>
             </mesh>
           </geometry>
           <material>
@@ -4362,7 +4362,7 @@
           <pose>0 0 0.044 0 0 0</pose>
           <geometry>
             <mesh>
-              <uri>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/asphalt.obj</uri>
+              <uri>models/smooth_road/meshes/asphalt.obj</uri>
             </mesh>
           </geometry>
           <material>
@@ -4375,7 +4375,7 @@
           <pose>0 0 0.052 0 0 0</pose>
           <geometry>
             <mesh>
-              <uri>file:///home/dhruv/Indian_autonomus/gazebo_worlds/models/smooth_road/meshes/center_line.obj</uri>
+              <uri>models/smooth_road/meshes/center_line.obj</uri>
             </mesh>
           </geometry>
           <material>
